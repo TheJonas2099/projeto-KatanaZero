@@ -1,0 +1,31 @@
+@media(max-width:750px){
+    .katana{
+        flex-direction: column ;
+        align-items: center;
+        padding: 30px 0;
+    }
+
+    .cartao-personagem{
+        max-width: 300px;
+    }
+
+    .cartao-personagem .cartao-informacoes{
+        padding: 60px 30px 30px;
+        margin-top: -50;
+    }
+    .cartao-personagem .cartao-informacoes h3{
+        font-size: 16px;
+    }
+    .listagem{ max-width: 360px;}
+    .listagem .pixel{
+        width: 50%;
+        
+    }
+    .listagem ul{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        
+    }
+
+}
