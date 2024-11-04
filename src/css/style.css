@@ -49,7 +49,7 @@ min-height: 100vh;
 }
 
 .cartao-personagem .nome{
-    margin: 5px 5px;
+    margin: 5px 8px;
 
 }
 
@@ -85,33 +85,40 @@ min-height: 100vh;
     }
 
     .tipo-zero{
-        background-color: #161515;
-        margin: 10px 10px;
+        background-color: #161515;    
     }
+   
     .tipo-dragon{
-        background-color: #FFCE19;
-        margin: 10px 10px;
+        background-color: #FFCE19;  
     }
+    
     .tipo-v{
-        background-color: #317699;
-        margin: 10px 10px;
+        background-color: #317699; 
     }
+    
     .tipo-Snow{
-        background-color: #2A4977;
-        margin: 10px 10px;
+        background-color: #2A4977;  
     }
+    
     .tipo-pscychiatrist{
         background-color: #883050;
-        margin: 10px 10px;
     }
-    .tipo-masked{
-        background-color: #B3752A;
-        margin: 10px 10px;
+    
+    .tipo-kissyface{
+        background-color:#601130; 
     }
+    .tipo-littlegirl{
+        background-color: #DF0F71;
+    }
+   
+   
+   
     .listagem{
         max-width: 200px;
     }
-    .listagem .pixel img{width: 25%;}
+    .listagem .pixel img{width: 25%;
+    }
+    
 
     .listagem .pixel{
         background-color: #14193C;
@@ -138,3 +145,9 @@ min-height: 100vh;
         padding-right: 20px;
     }
     .listagem .pixel.ativo {background-color: #277FFA;}
+
+   #zero img {width: 40%;}
+    #snow img {width: 23%;} 
+   
+  
+    
